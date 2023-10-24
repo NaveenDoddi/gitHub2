@@ -1,0 +1,17 @@
+.dropdown-menu::-webkit-scrollbar {
+  display: none;
+}
+.lkfjdsl {
+  color: lightcoral;
+}
+
+#hiddenh1 {
+  display: none;
+}
+
+@media only screen and (max-width: 465px) {
+  #container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
